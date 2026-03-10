@@ -32,4 +32,4 @@ The goal of this analysis is to explore sales data and answer important business
 - Standard Class is the most commonly used shipping mode.
 
 ## Author
-Ashrofa
+Ashraf
